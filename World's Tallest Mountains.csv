@@ -1,7 +1,7 @@
 id,Rank,Mountain name,Height in m,Height in ft,Prominence in m,Range,Coordinates,Parent mountain,First ascent,Ascents (& failed attempts) as of 2004,Country
 1,1.0,Mount Everest,8848.0,29029.0,8848.0,Mahalangur Himalaya,27°59′17″N 86°55′31″E﻿ / ﻿27.98806°N 86.92528°E,none,1953.0,145 (121),"Nepal, China"
 2,2.0,K2,8611.0,28251.0,4020.0,Baltoro Karakoram,35°52′53″N 76°30′48″E﻿ / ﻿35.88139°N 76.51333°E,Mount Everest,1954.0,45 (44),"Pakistan, China"
-3,3.0,Kangchenjunga,8586.0,28169.0,3922.0,Kangchenjunga Himalaya,27°42′12″N 88°08′51″E﻿ / ﻿27.70333°N 88.14750°E *,Mount Everest,1955.0,38 (24),NepalIndia
+3,3.0,Kangchenjunga,8586.0,28169.0,3922.0,Kangchenjunga Himalaya,27°42′12″N 88°08′51″E﻿ / ﻿27.70333°N 88.14750°E *,Mount Everest,1955.0,38 (24),"Nepal, India"
 4,4.0,Lhotse,8516.0,27940.0,610.0,Mahalangur Himalaya,27°57′42″N 86°55′59″E﻿ / ﻿27.96167°N 86.93306°E,Mount Everest,1956.0,26 (26),"Nepal, China"
 5,5.0,Makalu,8485.0,27838.0,2378.0,Mahalangur Himalaya,27°53′23″N 87°05′20″E﻿ / ﻿27.88972°N 87.08889°E,Mount Everest,1955.0,45.0,"Nepal, China"
 6,6.0,Cho Oyu,8188.0,26864.0,2340.0,Mahalangur Himalaya,28°05′39″N 86°39′39″E﻿ / ﻿28.09417°N 86.66083°E,Mount Everest,1954.0,79 (28),"Nepal, China"
